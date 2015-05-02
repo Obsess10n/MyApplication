@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DrugStoreForAndroid</string>
+
+    <string name="title_section1">首页</string>
+    <string name="title_section2">用户信息</string>
+    <string name="title_section3">订单管理</string>
+    <string name="title_section4">购物车</string>
+    <string name="title_section5">分类查看</string>
+    <string name="title_section6">联系客服</string>
+    <string name="title_section7">关于我们</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">搜索</string>
+
+    <string name="action_settings">设置</string>
+</resources>
